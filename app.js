@@ -16,12 +16,13 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBrYLauGAqwFqtLI_-TUrzVoJU2Bj7KuRM",
-  authDomain: "najio-916fc.firebaseapp.com",
-  projectId: "najio-916fc",
-  storageBucket: "najio-916fc.appspot.com",
-  messagingSenderId: "245691497504",
-  appId: "1:245691497504:web:a3cfb02ae8d104346e1045"
+  apiKey: "AIzaSyAfG3TVD_T1sY-ZIWrmdeIn0Z6ENViNF6A",
+  authDomain: "sonikk-dcfbb.firebaseapp.com",
+  databaseURL: "https://sonikk-dcfbb-default-rtdb.firebaseio.com",
+  projectId: "sonikk-dcfbb",
+  storageBucket: "sonikk-dcfbb.appspot.com",
+  messagingSenderId: "1098050470324",
+  appId: "1:1098050470324:web:57bc54b65d86ef0df572e1"
 };
 
 // Initialize Firebase
